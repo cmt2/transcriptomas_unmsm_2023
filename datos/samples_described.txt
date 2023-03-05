@@ -1,0 +1,13 @@
+sample	condition
+SAM_1	SAM
+SAM_2	SAM
+SAM_3	SAM
+rhi_1	rhi
+rhi_2	rhi
+rhi_3	rhi
+roo_1	roo
+roo_2	roo
+roo_3	roo
+tub_1	tub
+tub_2	tub
+tub_3	tub
