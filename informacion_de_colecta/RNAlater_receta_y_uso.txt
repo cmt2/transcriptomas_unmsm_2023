@@ -1,0 +1,56 @@
+Homebrew RNALater-like Solution [from KEVIN KOCOT]
+
+Overview
+This buffer mimics RNAlater. DNA and RNA are stable in this buffer for a couple days at room temperature and about a week in the fridge but samples should be stored in the freezer. This buffer does not appear to be well-suited for preserving high-molecular weight DNA.
+
+Materials
+•	EDTA disodium salt, dihydrate
+•	Sodium citrate trisodium salt, dihydrate
+•	Ammonium sulfate
+•	Ultrapure water
+•	H2SO4 to adjust pH
+
+Lab equipment
+•	Sterile flask
+•	Stir bar and stir plate w/heater
+•	Scale
+•	Graduated cylinder
+•	Pipet
+•	pH meter
+
+Instructions
+1.	In a large glass beaker, combine:
+	a.	40mL 0.5M EDTA pH 8
+	b.	25mL 1M sodium citrate
+	c.	700g ammonium sulfate
+	d.	935 mL ultrapure H2O.
+2.	Cover with aluminum foil.
+3.	Stir on low heat until the ammonium sulfate dissolves (this can take overnight).
+4.	Allow solution to cool and measure pH, adjusting to 5.2 with H2SO4 if necessary. This usually requires on the order of 1mL
+5.	Store at room temperature in a sealed container until ready to use.
+
+Solutions
+•	For 40mL of 0.5M EDTA, add 7.44g EDTA to 40mL ultrapure H2O then adjust pH to 8.
+•	For 25mL of 1M sodium citrate, add 5.88g sodium citrate to 25mL of ultrapure H2O.
+
+
+
+Usage
+Tissue samples or specimens should be no larger than 1 mm in thickness to ensure penetration. Unless they are very tiny, specimens should be cut up, especially if they have a waxy cuticle like an arthropod or a plant. For best results, use a >20:1 RNAlater:tissue ratio. Avoid transferring any more seawater / culture media / etc. with the specimen than necessary. 
+
+After adding the tissue sample, invert the tube multiple times to help the RNAlater perfuse the sample. At this point you can store the sample in the freezer (ideally at -80 but -20 is OK). However, it is probably best to invert the tube multiple times right after adding the specimen/tissue sample, put it in the fridge for 15 minutes to a few hours inverting the tube periodically, and then freeze it. In Kevin Kocot’s opinion, the official manual is exaggerating when it says samples can sit at room temp for up to a week and in the fridge for up to a month. In our experience with marine invertebrates, it’s more like room temperature for up to 2 days and the fridge for up to a week.
+
+
+
+
+
+Care and Feeding of Tissue Samples in RNAlater
+
+RNAlater is a stabilization solution for nucleic acids in tissue samples. It contains ammonium sulfate (to precipitate proteins), EDTA (a chelator of divalent cations), sodium citrate (pH buffer), and water. It has a low pH and thus it will dissolve calcium carbonate, etc.
+
+Official manual for RNAlater: http://tools.thermofisher.com/content/sfs/manuals/cms_056069.pdf
+
+Storage: Store unused RNAlater at room temperature. If any precipitation forms, heat it to ~37° C and agitate to redissolve it.
+
+Usage: Tissue samples or specimens should be no larger than 1 mm in thickness to ensure penetration. Unless they are very tiny, specimens should be cut up to ensure penetration, especially if they have a waxy cuticle like an arthropod or a plant. You want a >20:1 RNAlater:tissue ratio. Avoid transferring any more seawater / culture media / etc. with the tissue sample / specimen than necessary. 
+After adding the tissue sample, invert the tube multiple times to help the RNAlater perfuse the sample. At this point you can store the sample in the freezer (ideally at -80 but -20 is OK). However, it is probably best to invert the tube multiple times right after adding the specimen/tissue sample, put it in the fridge for 15 minutes to a few hours inverting the tube periodically, and then freeze it. In Kevin Kocot’s opinion, the official manual is exaggerating when it says samples can sit at room temp for up to a week and in the fridge for up to a month. In our experience with marine invertebrates, it’s more like room temperature for up to 2 days and the fridge for up to a week.
